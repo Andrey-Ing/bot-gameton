@@ -1,1 +1,1 @@
-# bot-gameton
+Bot for gameton competitions
